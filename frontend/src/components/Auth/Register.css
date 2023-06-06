@@ -1,0 +1,74 @@
+.box2{
+    height: 70vh;
+   justify-content: space-evenly;
+}
+.box{
+    height: 100vh;
+}
+.box-red-register{
+  
+    color:white;
+    width: 100%;
+    justify-content: center;
+     background: linear-gradient(180deg, #E6858A 0%, #E6858A 64.45%, rgba(230, 133, 138, 0) 100%);
+    
+}
+.register{
+    background: #FDFDFD;
+border: 1px solid #CFC4C4;
+border-radius: 30px;
+width: 250px;
+padding: 8px 0px;
+}
+.login-head-text{
+    
+    font-family: 'Kumbh Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 2.5rem;
+line-height: 45px;
+margin-bottom: 60px;
+}
+.form input{
+    width: 300px;
+    border-radius: 20px;
+    margin: 15px 0px;
+    text-align: center;
+}
+.submit-btn{
+    background: #E6858A;
+    width: 200px !important;
+    border: 1px solid #CFC4C4;
+    height: 40px;
+    border-radius: 30px;
+}
+.socials{
+    display: flex;
+    width: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.line-start{
+    width: 50px;
+    height: 2px;
+    background-color: #CFC4C4;
+
+}
+.line-end{
+    
+    height: 2px;
+    width: 50px;
+    background-color: #CFC4C4;
+
+}
+.divider{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.back-color{
+    background: linear-gradient(180deg, #E6858A 0%, #E6858A 64.45%, rgba(230, 133, 138, 0) 100%);
+}
+.edit-btn{
+    border: none;
+}

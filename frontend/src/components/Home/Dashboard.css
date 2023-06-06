@@ -1,0 +1,341 @@
+.profile-img {
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.name {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 15px;
+}
+
+.count {
+    width: 20px;
+    height: 20px;
+    background-color: #4A5759;
+    position: relative;
+    left: -26px;
+    top: -10px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.bg-light {
+    background: linear-gradient(180deg, #E685A8 0%, rgba(237, 144, 144, 0) 100%);
+}
+
+.search {
+    border-radius: 8px;
+    width: 140px !important;
+}
+
+.box7 {
+    margin-top: 50px;
+}
+
+.todobox {
+    width: 95%;
+
+    box-shadow: 0px 0px 30px 4px black;
+}
+
+.task-todobox {
+    background: #FFFCFC;
+    border: 3px solid #CFC4C4;
+    flex-direction: column;
+    border-radius: 30px;
+    box-shadow: none;
+
+
+}
+
+.todo-text-head {
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height, or 131% */
+
+    text-align: center;
+    margin: 13px 0px;
+    color: #6E6B7B;
+}
+
+.task {
+    background: #F1F3FA;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+
+.task2 {
+    background: white;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+
+.project-head {
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 21px;
+    color: #4A4646;
+
+}
+
+.right-box-dashboard {
+    background: #FEFBFB;
+}
+
+.btn1 {
+    background: #BC0BD9;
+    color: white;
+    border-radius: 20px;
+}
+
+.back-box {
+    background: rgba(180, 127, 246, 0.17);
+    height: 50px;
+    filter: blur(.5px);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.percentage-box {
+    background: linear-gradient(270deg, rgba(117, 48, 205, 0.73) 0%, rgba(117, 48, 205, 0) 95.17%);
+    height: 50px;
+    width: 25%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.green-back {
+    background: rgba(127, 246, 175, 0.23);
+}
+
+.green {
+    background: linear-gradient(270deg, rgba(21, 180, 85, 0.8) 44.08%, rgba(9, 176, 76, 0) 86.81%);
+    width: 50%;
+}
+
+.orange-back {
+    background: rgba(246, 163, 127, 0.21);
+}
+
+.orange {
+    background: linear-gradient(270deg, rgba(200, 84, 34, 0.87) 2.64%, rgba(246, 163, 127, 0) 71.97%);
+    width: 75%;
+}
+
+.up-text {
+    writing-mode: vertical-rl;
+}
+
+/* footer */
+
+.footer {
+
+    background: linear-gradient(to top, #E685A8 0%, rgba(237, 144, 144, 0) 100%);
+    height: 80px;
+    margin-top: 20px;
+
+}
+
+.btn2 {
+    justify-content: space-between !important;
+    padding: 0px 20px;
+    width: 182px;
+}
+
+.task-tab-table td,
+.task-tab-table th {
+    border-top: none;
+}
+
+.task-tab-table th {
+    text-align: center;
+    border-bottom: none !important;
+}
+
+.task-tab-table {
+    /* border-collapse:inherit; */
+}
+
+.task-tab-table-body {
+    margin-top: 30px;
+    box-shadow: 0px 0px 1px 3px #CFC4C4;
+    border-radius: 22px;
+}
+
+.task-tab-table thead {
+    position: relative;
+    top: -20px;
+
+}
+
+.check {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn-due {
+    width: 100px;
+    padding: 2px 5px;
+    color: white;
+    background: rgba(242, 189, 111, 0.89);
+}
+
+.bottom-line {
+    height: 2px;
+    width: 279%;
+    position: relative;
+    background-color: rgba(74, 87, 89, 0.25);
+    top: -22px;
+}
+
+.bottom-line2 {
+    height: 2px;
+    width: 283%;
+    position: relative;
+    background-color: rgba(74, 87, 89, 0.25);
+    top: -22px;
+}
+
+.done {
+    background: rgba(116, 217, 157, 0.74)
+}
+
+.inprogress {
+    background: rgba(121, 215, 215, 0.74)
+}
+
+.task-detail-box {
+
+    border-radius: 20px;
+    width: 90%;
+    height: 500px;
+}
+
+.text2 {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.task-detail-head {
+    background: linear-gradient(180deg, #E685A8 0%, rgba(237, 144, 144, 0) 100%);
+}
+
+.datebox {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.task-detail-box textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+    border: none;
+    background: rgba(173, 171, 171, 0.07);
+}
+
+.btn-edit {
+    background: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.btn-delete {
+    background: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.task-detail-box-footer {
+    height: 50px;
+    width: 100%;
+    background: linear-gradient(to top, #E685A8 0%, rgba(237, 144, 144, 0.1) 59.23%, rgba(237, 144, 144, 0) 98.3%);
+}
+
+.line {
+    height: 2px;
+    width: 91%;
+    margin: auto;
+    background-color: #4A5759;
+}
+
+.timer-box {
+    padding: 60px;
+    background: #F1F3FA;
+    border-radius: 33px;
+}
+
+.timer-btn-1 {
+    width: 151px;
+    height: 65px;
+    background: linear-gradient(180deg, #E6858A 0%, #E6858A 64.45%, rgba(230, 133, 138, 0) 100%);
+    border-radius: 20px;
+    border: none;
+    font-size: 30px;
+
+}
+
+.timer-btn-2 {
+    width: 151px;
+    height: 65px;
+    background: linear-gradient(180deg, rgba(115, 103, 240, 0.36) 0%, rgba(115, 103, 240, 0) 100%);
+    border-radius: 20px;
+    border: none;
+    font-size: 30px;
+}
+.start{
+border:none;
+background: #F1F3FA;
+border-radius: 20px;
+cursor: pointer;
+}
+.pause{
+    border:none;
+    border-radius: 20px;
+    background: #F1F3FA;
+    cursor: pointer;
+}
+.timer-time{
+    font-size: 80px;
+
+}
+.select-label{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.addtask-text{
+    font-size: 30px;
+    
+    font-weight: 600;
+}
+.logout-btn{
+    background-color: #4a4649;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.logout-btn:hover{
+    background-color: white;
+    border:2px solid black;
+    color: black;
+    border-radius: 3px;
+}
+.select-text{
+    font-size: 25px;
+    font-weight:300;
+    font-family: 'algerian';
+}
