@@ -2,7 +2,7 @@
 
 ###About
 
-Task buddy - web application, created for students to help them manage their time more efficiently. It Allows to create a projects a split them into a tasks witha description and due dates available.
+Task buddy - web application, created for students to help them manage their time more efficiently. It allows to create a projects and split them into a tasks with description and due dates available. Also there is implemented a "Pomodoro timer" to help study and have apropriate rest breaks in between. 
 
 ###Implementation
 
