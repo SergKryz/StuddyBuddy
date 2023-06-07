@@ -2,9 +2,10 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/auth";
 
 
-//add firebase configuration below
-
+//add firebase configuration here below ---->>>>
+//------>>>
 const app = firebase.initializeApp({
+ 
  
 });
 
