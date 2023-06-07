@@ -7,6 +7,9 @@ Task buddy - web application, created for students to help them manage their tim
 ###Implementation
 
 - Clone Git repository to your machine
+- create a firebase project at https://firebase.google.com/ and add configuration to your application: frontend/src/firebase.js
 - Install required npm packages (command: *npm install* )
-- start project (comman: *npm start*)
-- create a firebase project and add configuration to your application : frontend/src/firebase.js
+- start project (command: *npm start*)
+
+Now your project should be alive !
+
